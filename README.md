@@ -1,23 +1,13 @@
-# I AM RITIK KUMAR BHOI
-
-# 💫 About Me:
-I'm currently working on a project which help<br>To the student<br>I learning now react<br>I completed html, css and javascript 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ritikbhoi874) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ritik kumar bhoi ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritikkumarbhoi51@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RitikRaj32&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RitikRaj32&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RitikRaj32&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RitikRaj32&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=RitikRaj32&icon=9&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ritik%20Kumar%20Bhoi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Learner&descAlignY=58&descSize=18" width="100%"/> <a href="#"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=64FFDA&background=0D1117&center=true&vCenter=true&width=650&lines=Hello%2C+I+am+Ritik+Kumar+Bhoi+%F0%9F%91%8B;Frontend+Developer;React+Learner;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG"/> </a> </div>
+💫 About Me
+🚀 I'm currently working on a project that helps students
+📚 I'm currently learning React
+✅ I've completed HTML, CSS, and JavaScript
+🌐 Connect With Me
+<p align="left"> <a href="https://instagram.com/ritikbhoi874" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" /> </a> <a href="https://linkedin.com/in/ritik-kumar-bhoi" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /> </a> <a href="mailto:ritikkumarbhoi51@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /> </a> </p>
+💻 Tech Stack
+<p align="left"> <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=0D1117"/> <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117"/> <img src="https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.shion.dev/api?username=RitikRaj32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA" width="48%"/> <img src="https://streak-stats.demolab.com/?user=RitikRaj32&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RitikRaj32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&layout=compact" width="55%"/> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RitikRaj32&theme=tokyonight&no-frame=true&margin-w=4&row=2" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=RitikRaj32&icon=9&color=64FFDA&style=for-the-badge" /> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/> <!-- Proudly customized with GPRM ( https://gprm.itsvg.in ) -->
