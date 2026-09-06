@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=180&section=header" width="100%"/> <table width="100%"> <tr> <td width="55%" valign="middle">
 Hi 👋, I'm <span style="color:
-#00C9FF">Ritik Kumar Bhoi</span>
-<a href="#"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00C9FF&background=0D1117&center=false&vCenter=true&width=500&lines=Hello%2C+I+am+Ritik+Kumar+Bhoi+%F0%9F%91%8B;Frontend+Developer;React+Learner;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG"/> </a> </td> <td width="45%" align="center"> <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="320"/> </td> </tr> </table>
+#00C9FF">Ritik Kumar Bhoi
 💫 About Me
 🚀 I'm currently working on a project that helps students
 📚 I'm currently learning React
