@@ -1,12 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=180&section=header" width="100%"/>
-
 <div align="center">
 
-# Hi 👋, I'm <span style="color:#00C9FF">Ritik Kumar Bhoi</span>
-
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00C9FF&background=0D1117&center=true&vCenter=true&width=500&lines=Hello%2C+I+am+Ritik+Kumar+Bhoi+%F0%9F%91%8B;Frontend+Developer;React+Learner;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00C9FF&background=0D1117&center=true&vCenter=true&width=900&lines=Hello%2C+I+am+Ritik+Kumar+Bhoi+%F0%9F%91%8B;Frontend+Developer;React+Learner;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG"/>
 </a>
+
+# Hi 👋, I'm <span style="color:#00C9FF">Ritik Kumar Bhoi</span>
 
 </div>
 
