@@ -1,15 +1,68 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=180&section=header" width="100%"/> <table width="100%"> <tr> <td width="55%" valign="middle">
-Hi 👋, I'm <span style="color:
-#00C9FF">Ritik Kumar Bhoi
-💫 About Me
-🚀 I'm currently working on a project that helps students
-📚 I'm currently learning React
-✅ I've completed HTML, CSS, and JavaScript
-🌐 Connect With Me
-<p align="left"> <a href="https://instagram.com/ritikbhoi874" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" /> </a> <a href="https://www.linkedin.com/in/ritik-kumar-bhoi-b3127642b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /> </a> <a href="mailto:ritikkumarbhoi51@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /> </a> </p>
-💻 Tech Stack
-<p align="left"> <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=0D1117"/> <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117"/> <img src="https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.shion.dev/api?username=RitikRaj32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA" width="48%"/> <img src="https://streak-stats.demolab.com/?user=RitikRaj32&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RitikRaj32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&layout=compact" width="55%"/> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RitikRaj32&theme=tokyonight&no-frame=true&margin-w=4&row=2" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=RitikRaj32&icon=9&color=64FFDA&style=for-the-badge" /> </p> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/> </p> <h3 align="center">Thanks for stopping by, <span style="color:#00C9FF">Ritik Kumar Bhoi</span> 🚀</h3> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=150&section=footer&text=Keep%20Building%20%F0%9F%92%BB&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/> <!-- Proudly customized with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=180&section=header" width="100%"/>
+
+<div align="center">
+
+# Hi 👋, I'm <span style="color:#00C9FF">Ritik Kumar Bhoi</span>
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00C9FF&background=0D1117&center=true&vCenter=true&width=500&lines=Hello%2C+I+am+Ritik+Kumar+Bhoi+%F0%9F%91%8B;Frontend+Developer;React+Learner;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG"/>
+</a>
+
+</div>
+
+## 💫 About Me
+- 🚀 I'm currently working on a project that helps students
+- 📚 I'm currently learning **React**
+- ✅ I've completed **HTML**, **CSS**, and **JavaScript**
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://instagram.com/ritikbhoi874" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://www.linkedin.com/in/ritik-kumar-bhoi-b3127642b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="mailto:ritikkumarbhoi51@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+</a>
+</p>
+
+## 💻 Tech Stack
+<p align="left">
+<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=RitikRaj32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=RitikRaj32&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA" width="48%"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RitikRaj32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&layout=compact" width="55%"/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RitikRaj32&theme=tokyonight&no-frame=true&margin-w=4&row=2" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RitikRaj32&icon=9&color=64FFDA&style=for-the-badge" />
+</p>
+
+<h3 align="center">Thanks for stopping by, <span style="color:#00C9FF">Ritik Kumar Bhoi</span> 🚀</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=150&section=footer&text=Keep%20Building%20%F0%9F%92%BB&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<!-- Proudly customized with GPRM ( https://gprm.itsvg.in ) -->
